@@ -25,6 +25,6 @@ Software developer & IT technician based in Lilongwe, Malawi. I build mobile app
 
 - 📧 martinmzumara08@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/martinmzumara)
-- ▶️ [YouTube](https://www.youtube.com/@yourchannel)
+- ▶️ [YouTube](https://www.youtube.com/@martinmzumara)
 
 <!-- open to collaborations on IoT, Flutter, or web projects — and remote work -->
