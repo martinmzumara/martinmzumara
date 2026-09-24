@@ -3,7 +3,6 @@
 Software developer & IT technician based in Lilongwe, Malawi. I build mobile apps, websites, and IoT systems — from Flutter frontends to ESP32 firmware in the field.
 
 🌐 **Portfolio:** https://martinmzumara.github.io/
-📄 **CV / Resume:** https://martinmzumara.github.io/cv/
 
 ## Skills
 
