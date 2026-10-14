@@ -3,8 +3,6 @@
 Software Developer & IT Technician based in Lilongwe, Malawi. I blend software engineering with network infrastructure work - from Flutter apps and ESP32 firmware to Cisco networking and CCTV deployments.
 
 🌐 **Portfolio:** https://martinmzumara.com
-📄 **Resume:** https://martinmzumara.com/cv/
-✍️ **Blog:** https://martinmzumara.com/blog/
 
 ## Skills
 
